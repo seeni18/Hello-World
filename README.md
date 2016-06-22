@@ -1,2 +1,3 @@
 # Hello-World
-My first repository
+Hi This is Srinivas. This is my first Branch off the master. I am learning to use Git..
+So far so good...
